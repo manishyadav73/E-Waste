@@ -25,9 +25,6 @@ E-waste, when not properly managed, becomes a significant environmental issue. O
 
 ## Getting Started
 
-### Prerequisites
-
-# i take care of your data
 
 
 git clone https://github.com/your-username/ewaste-plastic-management.git
